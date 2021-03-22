@@ -29,7 +29,7 @@ Crime incident reports are provided by Boston Police Department (BPD) to documen
 **Hourly Crime Rate in Distribution Across Various UCRs**
 ![](https://github.com/dwaipayan05/VisualizeBostonData/blob/main/BostonCrimeData/PyPlot%20Snapshots/HourlyUCR.png)
 
-**Tree Map of Crime Distribution Based on Count (Sunburst Using PyPlot)**
+**Tree Map of Crime Distribution Based on Count (TreeMap Using PyPlot)**
 ![](https://github.com/dwaipayan05/VisualizeBostonData/blob/main/BostonCrimeData/PyPlot%20Snapshots/CrimeDistribution(TreeMap).png)
 
 **Spatial Distribution of Map Across Each District in Boston (Using Matplotlib)**
