@@ -2,8 +2,7 @@
 
 ## About this Repository
 
-This repository contains Jupyter Notebooks where Data Visualization is carried out on datasets provided by [AnalyzeBoston](https://data.boston.gov/). It is more
-focussed on **Spatial Analysis** of data provided. Various python libraries are used such as folium, gmaps, pyplot, matplotlib, seaborn to carry out the data visualization process.
+This repository contains a collection of Jupyter Notebooks where Data Visualization is carried out on datasets provided by [AnalyzeBoston](https://data.boston.gov/). It is more focussed on **Spatial Analysis** of data provided. Various python libraries are used such as folium, gmaps, pyplot, matplotlib, seaborn to carry out the data visualization process.
 
 ## Dataset Source
 
