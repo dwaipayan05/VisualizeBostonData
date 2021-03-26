@@ -15,4 +15,36 @@ Crime incident reports are provided by Boston Police Department (BPD) to documen
 ## Plots Obtained
 
 **Distribution Of Total Number of Crimes Between 2015 - 2018**
+![](https://github.com/dwaipayan05/VisualizeBostonData/blob/main/BostonCrimeData/PyPlot%20Snapshots/CrimeDistribution(15-18).png)
 
+**Distribution Of Total Number of Crimes Based on Year & UCR Part**
+![](https://github.com/dwaipayan05/VisualizeBostonData/blob/main/BostonCrimeData/PyPlot%20Snapshots/CrimeDistribution(Pie).png)
+
+**Top 25 Crimes that Happened In Boston**
+![](https://github.com/dwaipayan05/VisualizeBostonData/blob/main/BostonCrimeData/PyPlot%20Snapshots/Top25Crimes.png)
+
+**Distribution of Crime Cases in Boston Around City Based on OFFENSE CODE**
+<p style="text-align:center;"><img src="https://github.com/dwaipayan05/VisualizeBostonData/blob/main/BostonCrimeData/PyPlot%20Snapshots/Crime%20by%20Offense.gif" alt="GIF"></p>
+
+**Hourly Crime Rate in Distribution Across Various UCRs**
+![](https://github.com/dwaipayan05/VisualizeBostonData/blob/main/BostonCrimeData/PyPlot%20Snapshots/HourlyUCR.png)
+
+**Tree Map of Crime Distribution Based on Count (TreeMap Using PyPlot)**
+![](https://github.com/dwaipayan05/VisualizeBostonData/blob/main/BostonCrimeData/PyPlot%20Snapshots/CrimeDistribution(TreeMap).png)
+
+**Spatial Distribution of Map Across Each District in Boston (Using Matplotlib)**
+![](https://github.com/dwaipayan05/VisualizeBostonData/blob/main/BostonCrimeData/PyPlot%20Snapshots/MatplotLibSpatialScatter.png)
+
+## Interactive Plots Obtained
+
+**Heat Map of Crime Counts Across Boston (Using PyPlot)**
+<p style="text-align:center;"><img src="https://github.com/dwaipayan05/VisualizeBostonData/blob/main/BostonCrimeData/PyPlot%20Snapshots/PyPlot%20Heat%20Map.gif" alt="GIF"></p>
+
+**Cluster Map of Crime Counts Across Boston (Using folium)**
+<p style="text-align:center;"><img src="https://github.com/dwaipayan05/VisualizeBostonData/blob/main/BostonCrimeData/PyPlot%20Snapshots/Folium%20Cluster%20Map.gif" alt="GIF"></p>
+
+**Heat Map of Crime Counts Across Boston (Using folium)**
+<p style="text-align:center;"><img src="https://github.com/dwaipayan05/VisualizeBostonData/blob/main/BostonCrimeData/PyPlot%20Snapshots/Folium%20Heat%20Map.gif" alt="GIF"></p>
+
+**Bubble Map of Crime Counts Across Boston (Using folium)**
+<p style="text-align:center;"><img src="https://github.com/dwaipayan05/VisualizeBostonData/blob/main/BostonCrimeData/PyPlot%20Snapshots/Folium%20Bubble%20Map.gif" alt="GIF"></p>
